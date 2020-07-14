@@ -22,3 +22,7 @@
 3.2) ⤵Change directory: `cd SimpleDosTermux`
 
 3.3) 🔴Run the utility: `./SimpleDosTermux.sh`
+
+#### ❓How to use it❓
+
+🟢Everything is very easy, just enter the address of the site you want to attack for the template and press Enter, that's it! To stop the attack, press Ctrl + C
