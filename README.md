@@ -17,7 +17,7 @@
 
 #### 3) If you use Termux:
 
-3.1) ⬇Download installer script: `wget https://pastebin.com/cJiq4hcG -O- | sh`
+3.1) ⬇Download installer script: `wget https://pastebin.com/raw/cJiq4hcG -O- | sh`
 
 3.2) ⤵Change directory: `cd SimpleDosTermux`
 
