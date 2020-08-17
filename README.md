@@ -13,7 +13,7 @@
 
 2.2) ⤵Change directory: `cd SimpleDosKali`
 
-2.3) 🔴Run the utility: `./SimpleDos.exe`
+2.3) 🔴Run the utility: `./SimpleDos`
 
 #### 3) If you use Termux:
 
@@ -25,6 +25,6 @@
 ***
 #### ❓How to use it❓
 
-🟢Everything is very easy, just enter the address of the site you want to attack for the template and press Enter, that's it! To stop the attack, press Ctrl + C
+🟢Everything is very easy, just enter the address of the site you want to attack for the template and press Enter, if you use Kali Linux enter the same number of threads, that's all! To stop the attack, press Ctrl + C
 ***
 # 🍀Thx for reading and good luck!
